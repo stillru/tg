@@ -1,8 +1,17 @@
+telegram-cli (1.0.6-3) unstable; urgency=low
+
+  * Fixed no_ids
+  * Added support for layer 18
+  * Add build-dependency on libevent-dev
+  * Add an option to use IDs instead of names. Useful for bots
+
+ -- Steve Illichevsky <still.ru@gmail.com>  Sun, 14 Oct 2014 00:51:06 +0400
+
 telegram-cli (1.0.6-2) unstable; urgency=low
 
   * Inpliment configurable config directory
 
- -- Steve Illichevsky <still@EnemyStation>  Sat, 11 Oct 2014 20:19:12 +0400
+ -- Steve Illichevsky <still.ru@gmail.com>  Tue, 12 Oct 2014 00:48:46 +0400
 
 telegram-cli (1.0.6-1) unstable; urgency=low
 
